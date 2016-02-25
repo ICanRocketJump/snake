@@ -1,0 +1,5 @@
+D:\Project\Snake\snake.git\snake\snake\bin\Debug\snake.exe.config
+D:\Project\Snake\snake.git\snake\snake\bin\Debug\snake.exe
+D:\Project\Snake\snake.git\snake\snake\bin\Debug\snake.pdb
+D:\Project\Snake\snake.git\snake\snake\obj\Debug\snake.exe
+D:\Project\Snake\snake.git\snake\snake\obj\Debug\snake.pdb
